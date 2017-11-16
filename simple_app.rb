@@ -1,3 +1,4 @@
+# http://gihyo.jp/dev/serial/01/ruby/0023
 # rbenv local 2.4.1
 # bundle init
 # vi Gemfile 
